@@ -45,9 +45,6 @@ Mi objetivo es desarrollarme profesionalmente en el área de la programación y 
 > "Resiste y sobrevive."
 ###
 <div align="left">
-  <a href="mailto:diego.castillo.dev.cl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/diego-castillo-1a5205198/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
