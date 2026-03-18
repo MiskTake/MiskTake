@@ -57,3 +57,4 @@ Mi objetivo es desarrollarme profesionalmente en el área de la programación y 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pers-02)
 
 ###
+<img align="right" height="150" src="https://media1.tenor.com/m/32lwzPfmq8oAAAAC/nick-wilde-zootopia.gif"  />
