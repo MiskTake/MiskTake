@@ -43,18 +43,3 @@ Mi objetivo es desarrollarme profesionalmente en el área de la programación y 
 ## 💡 Frase motivacional
 
 > "Resiste y sobrevive."
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/diego-castillo-1a5205198/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGcxMndldDk1ZndxN3Jsd2x1NzI0djlhdWtvaHFmYWRkOHhscDloayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0qLU8Rc8XOC52yYqL6/200.gif"  />
-
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pers-02)
-
-###
-<img align="right" height="150" src="https://media1.tenor.com/m/32lwzPfmq8oAAAAC/nick-wilde-zootopia.gif"  />
